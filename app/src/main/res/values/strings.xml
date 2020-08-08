@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">dz_3_4_1_and</string>
+
+    <string name="name_dz">Установка языка</string>
+    <string name="str_btn_ok">Установить</string>
+    <string name="str_language">Выберите язык</string>
+    <string name="str_theme">Выберите тему</string>
+
+    <string name="str_name_local_ru">Русский</string>
+    <string name="str_name_local_en">Английский</string>
+
+    <string-array name="sa_language">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+
+    <string name="str_name_theme_black">Черный</string>
+    <string name="str_name_theme_green">Зеленый</string>
+    <string name="str_name_theme_blue">Синий</string>
+
+    <string-array name="sa_theme">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+
+    <string name="str_txt_language">Lorem ipsum – это форма смешанного латинского текста, которая часто используется дизайнерами и машинистками в печатных и цифровых макетах.
+Он имитирует внешний вид латинского языка и, следовательно, делает хорошую замену обычным словам, обеспечивая форму бессмысленного текста.
+Lorem ipsum сохранился и в 21 веке и используется в печатных и цифровых форматах по всему миру.
+В действительности, даже сегодня, его популярность продолжается, и слова “lorem ipsum” могут генерировать более 200000 поисковых запросов каждый месяц (и это только в США).</string>
+
+</resources>

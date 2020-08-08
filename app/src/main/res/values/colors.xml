@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e57373</color>
+
+    <color name="colorPrimaryLight">#ffa4a2</color>
+    <color name="colorPrimaryDark">#af4448</color>
+    <color name="colorSecondary">#ffee58</color>
+    <color name="colorSecondaryLight">#ffff8b</color>
+    <color name="colorSecondaryDark">#c9bc1f</color>
+    <color name="colorPrimaryText">#3e2723</color>
+    <color name="colorSecondaryText">#3e2723</color>
+    <color name="colorPrimaryBackground">#ffebee</color>
+    <color name="colorSecondaryBackground">#fffde7</color>
+    <color name="colorAccent">#ffff8b</color>
+
+    <!-- Black Theme color -->
+    <color name="colorPrimaryBlack">#455a64</color>
+    <color name="colorPrimaryLightBlack">#718792</color>
+    <color name="colorPrimaryDarkBlack">#1c313a</color>
+    <color name="colorSecondaryBlack">#66bb6a</color>
+    <color name="colorSecondaryLightBlack">#98ee99</color>
+    <color name="colorSecondaryDarkBlack">#338a3e</color>
+    <color name="colorPrimaryTextBlack">#212121</color>
+    <color name="colorSecondaryTextBlack">#263238</color>
+    <color name="colorPrimaryBackgroundBlack">#eceff1</color>
+    <color name="colorSecondaryBackgroundBlack">#e8f5e9</color>
+
+    <!-- Green Theme color -->
+    <color name="colorPrimaryGreen">#00796b</color>
+    <color name="colorPrimaryLightGreen">#48a999</color>
+    <color name="colorPrimaryDarkGreen">#004c40</color>
+    <color name="colorSecondaryGreen">#64b5f6</color>
+    <color name="colorSecondaryLightGreen">#9be7ff</color>
+    <color name="colorSecondaryDarkGreen">#2286c3</color>
+    <color name="colorPrimaryTextGreen">#00bfa5</color>
+
+    <color name="colorSecondaryTextGreen">#263238</color>
+    <color name="colorPrimaryBackgroundGreen">#e0f2f1</color>
+    <color name="colorSecondaryBackgroundGreen">#e3f2fd</color>
+
+    <!-- Blue Theme color -->
+    <color name="colorPrimaryBlue">#1565c0</color>
+    <color name="colorPrimaryLightBlue">#5e92f3</color>
+    <color name="colorPrimaryDarkBlue">#003c8f</color>
+    <color name="colorSecondaryBlue">#90a4ae</color>
+    <color name="colorSecondaryLightBlue">#c1d5e0</color>
+    <color name="colorSecondaryDarkBlue">#62757f</color>
+    <color name="colorPrimaryTextBlue">#263238</color>
+    <color name="colorSecondaryTextBlue">#0d47a1</color>
+    <color name="colorPrimaryBackgroundBlue">#e3f2fd</color>
+    <color name="colorSecondaryBackgroundBlue">#eceff1</color>
+
+
+    </resources>
